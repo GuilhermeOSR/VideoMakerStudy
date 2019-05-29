@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/GuilhermeOSR/VideoMakerStudy/issues"
   },
-  "homepage": "https://github.com/GuilhermeOSR/VideoMakerStudy#readme"
+  "homepage": "https://github.com/GuilhermeOSR/VideoMakerStudy#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.9"
+  }
 }
